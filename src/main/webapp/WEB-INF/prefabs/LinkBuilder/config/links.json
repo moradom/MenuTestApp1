@@ -25,7 +25,8 @@
     } ]
   }, {
     "label" : "Link 3",
-    "icon" : "wi wi-euro-symbol"
+    "icon" : "wi wi-euro-symbol",
+    "link" : "MenuTestApp2"
   }, {
     "label" : "Link 4",
     "icon" : "wi wi-euro-symbol"
